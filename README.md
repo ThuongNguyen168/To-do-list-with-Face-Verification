@@ -1,2 +1,3 @@
-# SecureMemo
- 
+# To do List
+SecureMemo application overview process, is an application for taking notes and managing daily tasks. This app will help you keep track of tasks that need to be completed, make to-do lists, and organize your time effectively. Along with that, it will be described how users can take advantage of this application to manage their work and stay organized in their academic and personal lives.Build the application architecture according to the following diagram with three main functions: Tasks, Notes and Settings:
+![image](https://github.com/ThuongNguyen168/To-do-list-with-Face-Verification/assets/96915143/ad2a4c5e-1cba-423a-9307-59342d219577)
